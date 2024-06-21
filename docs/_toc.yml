@@ -1,0 +1,10 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: day1/about
+  sections:
+  - file: day1/1_3_1_ydata_profiling
+#- file: day2/about
